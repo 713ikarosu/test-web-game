@@ -1,0 +1,19 @@
+{
+  "name": "test-web-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/713ikarosu/test-web-game.git",
+  "author": "soudahirokatsu",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.55.2",
+    "phavuer": "^0.9.1",
+    "vue": "^3.2.29"
+  },
+  "devDependencies": {
+    "@rollup/plugin-replace": "^3.0.1",
+    "@vitejs/plugin-vue": "^2.1.0",
+    "@vue/compiler-sfc": "^3.2.29",
+    "vite": "^2.7.13"
+  }
+}
